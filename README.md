@@ -1,5 +1,5 @@
 # 💫 About Me:
-frontend developer
+frontend developer // learning 3d web
 
 
 ## 🌐 Socials:
